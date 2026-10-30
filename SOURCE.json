@@ -1,0 +1,12 @@
+{
+  "source": "myreach-top/myreach-web",
+  "commit": "89961055b6eda73941a666c0e88e060f9e362cd6",
+  "dirty": true,
+  "visibility": "private",
+  "candidateOnly": true,
+  "files": {
+    "docs/mcp/tutorials.md": "c5576eb39bfcd3086974793924746573ff65f7d6317068a53c0afe99f4c6921b",
+    "marketplace/installation/clients.md": "fa73affc1baf6b5b22c575fda247b0227e425c08d9da8b7c15dcf5948f8f5387",
+    "marketplace/installation/compatibility.md": "784c093449f1a6203b0719fc6bf201feba8cc889888a7920eb4cf6299ef4c5f7"
+  }
+}
