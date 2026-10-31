@@ -9,7 +9,7 @@ See tutorials.md, clients.md and compatibility.md for candidate workflows and
 actual recorded testing.
 
 - [Official MCP Registry — listed, v1.0.0](https://registry.modelcontextprotocol.io/?q=top.myreach%2Fmyreach)
-- [OpenClaw / ClawHub — listed, v1.0.0](https://clawhub.ai/myreach-top/plugins/myreach)
+- [OpenClaw / ClawHub — listed, v1.0.1](https://clawhub.ai/myreach-top/plugins/myreach)
 - [Hermes catalog — awaiting review](https://github.com/NousResearch/hermes-agent/pull/147158)
 
 Registry publication does not imply client marketplace approval.
