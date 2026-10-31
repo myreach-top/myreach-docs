@@ -1,14 +1,14 @@
 {
   "source": "myreach-top/myreach-web",
   "sourceVisibility": "private",
-  "commit": "ad3794c3730ac4d3bcb54edcb9faf282021a9211",
+  "commit": "3501690f8ed81e2c53d90df6541375649eedb588",
   "dirty": false,
   "visibility": "public",
   "candidateOnly": true,
-  "generatorSha256": "d41d30fde3d47e57cbf285f73d4965f5483e27ab18ecc9bb06758eab529c7703",
+  "generatorSha256": "83f853359b470507b1dfc082fa6602dab923c794ffa5e0cd4c28e1996d059cde",
   "files": {
     "docs/mcp/tutorials.md": "c5576eb39bfcd3086974793924746573ff65f7d6317068a53c0afe99f4c6921b",
-    "marketplace/installation/clients.md": "98e7e9d56026379676a57c96722a0a00cf8c9812d12dcaa01634cba92fc6781e",
-    "marketplace/installation/compatibility.md": "ebaeb36d3ebc8df3d8f9e004d0ab1bd06178f674e6d48115a5b7fda25156b122"
+    "marketplace/installation/clients.md": "b25b5b8fbd10abea41762b8ad35f2af82676316d3cc16b4c6a5e85748d24c4e1",
+    "marketplace/installation/compatibility.md": "09c3f37771f3927336b81e6c582c09ce79fdd4691936b50cd73fe34cb85dbb7f"
   }
 }
