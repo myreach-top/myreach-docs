@@ -1,14 +1,15 @@
 {
   "source": "myreach-top/myreach-web",
   "sourceVisibility": "private",
-  "commit": "1d71023801841a6b7d5e4f12b5efca52ec68ec85",
+  "commit": "6aa36133a9fdd5fde2129ab70361bb67c1902062",
   "dirty": false,
   "visibility": "public",
   "candidateOnly": true,
-  "generatorSha256": "fb326857d09c9326435032092767e81a784eaf1408371b6e9764925468b9175b",
+  "generatorSha256": "6f8c1f013ed435250968a2b4ad1f88e60776ebe96b4b92cf6625ad8d3909a7dd",
   "files": {
-    "docs/mcp/tutorials.md": "c5576eb39bfcd3086974793924746573ff65f7d6317068a53c0afe99f4c6921b",
-    "marketplace/installation/clients.md": "f725444bfdce946d0a92c48180d0a741a6bc567c22973cde4188f7d1a21a79a2",
-    "marketplace/installation/compatibility.md": "d8e8c490b2e9e293628b99ada9f895dd4d48c12a7050a25cc6eb147d0c68d435"
+    "docs/mcp/tutorials.md": "e25b6f1c853c5917d58688f5aea7395a156f9fd9aa1d833a82554710e3fc6430",
+    "marketplace/installation/clients.md": "31b03f057cf3f4cb166d8a776ba67bcefae7641ac1f82af58d7f07c06336c581",
+    "marketplace/installation/compatibility.md": "0d5e05c0ea933422444e343012f0a923ca18ded68dab8a27be45d39e0155db00",
+    "docs/mcp/review-guide.md": "579d62e07ea32f714c9261c75f3d7c5bef25f5e1fb85b1c2a68aa815f12ee5ac"
   }
 }

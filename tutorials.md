@@ -1,7 +1,11 @@
-# Three local walkthroughs
+# Creator, business and agent walkthroughs
 
-Use the isolated server and client setup in README.md. These are distinct page
-workflows; hosted client compatibility remains a separate release gate.
+Use the [shared client review guide](https://github.com/myreach-top/myreach-mcp/blob/main/review-guide.md)
+for public fictional page examples, copyable requests, resource URIs, prompt
+arguments, verified claim and OAuth review steps. The same recipes apply to
+any compatible remote client; each client's actual OAuth and conversation
+results remain recorded separately in compatibility.md. For local testing,
+use the isolated server and client setup in README.md.
 
 ## Creator: one portfolio and newsletter destination
 
